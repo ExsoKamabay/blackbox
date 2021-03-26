@@ -9,6 +9,7 @@ full control of windows operating system using tcp network.<br>
 - record browser history and bookmarks
 - sending message
 - open the url in the browser
+- shell command
 <img src="https://raw.githubusercontent.com/ExsoKamabay/BlackboxWin/main/gifBlackbox.gif">
 
 - <a href='https://www.youtube.com/watch?v=nWJAlEPv53w&t=57s'>watch the tutorial</a>
