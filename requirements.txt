@@ -7,3 +7,4 @@ webbrowser
 pyautogui
 requests
 bs4
+pyngrok
