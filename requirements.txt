@@ -1,0 +1,9 @@
+browser_history
+pyscreenrec
+shell_cmd
+text_to_speech
+webview
+webbrowser
+pyautogui
+requests
+bs4
