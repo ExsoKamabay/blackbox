@@ -10,6 +10,7 @@ jika ada bug pada aplikasi silakan hubungi [lexyong66@gmail.com,zhangxie252@gmai
 
 ``` APA AJJA YANG DILAKUKAN BLACKBOX?```
 
+- ```perintah shell```
 - ```mengakses keyboard```
 - ```merekam layar```
 - ```mengambil tangkapan layar```
