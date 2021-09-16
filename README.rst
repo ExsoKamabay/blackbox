@@ -24,6 +24,8 @@ jika ada bug pada aplikasi silakan hubungi [lexyong66@gmail.com,zhangxie252@gmai
 
 **TERAKHIR PEMBAHARUAN**
 
+- ```kamis 16-09-2021``` memperbaiki bug pada client linux,menghapus menu pilihan pada client & menambah menu pilihan pada server
+
 
 
 .. _python : https://python.org/download
