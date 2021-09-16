@@ -6,7 +6,7 @@
 
 ```BLACKBOX``` kode sumber terbuka, kamu hanya membutuhkan notepad untuk membuka/mengedit kode ```tetapi``` bukan itu yang kami harapkan :( 
 
-jika ada bug pada aplikasi silakan hubungi [lexyong66@gmail.com,zhangxie252@gmail.com,k4km4b4y@gmail.com] laporkan kesalahan pada aplikasi,biarkan kami yang bekerja. 
+jika ada bug pada aplikasi silakan hubungi [lexyong66@gmail.com,zhangxie252@gmail.com,k4km4b4y@gmail.com] laporkan kesalahan aplikasi,biarkan kami yang bekerja. 
 
 ``` APA AJJA YANG DILAKUKAN BLACKBOX?```
 
